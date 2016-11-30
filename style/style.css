@@ -1,11 +1,24 @@
+/*
+COLOR SCHEME
+
+COLOR1: #93B7BE LIGHT BLUISH
+
+cOLOR2: #D5C7BC TAN
+
+COLOR3: #6D4754 BURGUNDY
+
+COLOR4 #454545 BROWN GREEN
+*/
+
 body{
-  font-size 1em;
+  font-size: 1em;
   font-weight normal;
   font-family: Arial, sans-serif;
 
-  color:#000000;/*black*/
-  text-aligin:left;
-  background-color:#FFA8EF;
+  color:#000000; /*black*/
+  background-color:#D88FD1;
+  width: 70%;
+  margin: 0 auto;
 }
 
 h1 {
@@ -15,9 +28,12 @@ h1 {
   text-align: center;
 }
 p{
-height:100px;
-width: auto;
-border:1.2em solid #5E5E5E;
+  padding: 20px;
+  border:3px dashed #5E5E5E;
   background-color: #AFAFAF;
 
+}
+
+h1, h2, h3 {
+  color: #6D4754;
 }
