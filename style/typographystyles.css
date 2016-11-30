@@ -48,17 +48,19 @@ div p {
 #right_align {
   /* Use the text-align property to right-align the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
-   line-height:195%;
+   line-height:192%;
 }
 
 #justify {
   /* Use the text-align property to justify the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
+   letter-spacing: 4.8px;
 }
 
 #center {
   /* Use the text-align property to justify the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
+   line-height: 140%
 }
 /*** TEXT ALIGNMENT ASSIGNMENT STYLES ***/
 
