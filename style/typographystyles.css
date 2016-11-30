@@ -39,28 +39,27 @@ div p {
   margin: 1em auto;
 }
 
-#left_align {
+#leftalign {
   /* Use the text-align property to left-align the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
-   letter-spacing:3px;
+   text-align: left;
 }
-
-#right_align {
+#rightalign {
   /* Use the text-align property to right-align the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
-   line-height:192%;
-}
+   text-align:right;
+ }
+
 
 #justify {
   /* Use the text-align property to justify the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
-   letter-spacing: 4.8px;
+text-align:justify;
 }
-
 #center {
   /* Use the text-align property to justify the text
    http://www.w3schools.com/cssref/pr_text_text-align.asp */
-   line-height: 140%
+text-align:center;
 }
 /*** TEXT ALIGNMENT ASSIGNMENT STYLES ***/
 
@@ -68,24 +67,4 @@ div p {
 .align {
   max-width: 80%;
   margin: 1em auto;
-}
-
-#left_align {
-  /* Use the text-align property to left-align the text
-   http://www.w3schools.com/cssref/pr_text_text-align.asp */
-}
-
-#right_align {
-  /* Use the text-align property to right-align the text
-   http://www.w3schools.com/cssref/pr_text_text-align.asp */
-}
-
-#justify {
-  /* Use the text-align property to justify the text
-   http://www.w3schools.com/cssref/pr_text_text-align.asp */
-}
-
-#center {
-  /* Use the text-align property to justify the text
-   http://www.w3schools.com/cssref/pr_text_text-align.asp */
 }
