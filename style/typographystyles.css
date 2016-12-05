@@ -122,9 +122,12 @@ text-align:center;
   height: 500px;
   width: 800px;
   margin: 0 auto;
+  font-size: 3.5em;
+  text-align: justify;
+
 }
 
 #title {
-  color: #E75A7C
-  
+  color: #BF5DA0
+
 }
