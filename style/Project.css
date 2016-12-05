@@ -34,3 +34,9 @@ h1, h2, h3 {
   padding-bottom: 10em;
   background-image: url("../images/success.PNG");
 }
+.quote1{
+  font-size: 2em;
+  border:  .3em solid #000;
+  border-radius: 1em;
+    background-image: url("../images/jump.jpg");
+    
