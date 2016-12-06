@@ -38,5 +38,9 @@ h1, h2, h3 {
   font-size: 2em;
   border:  .3em solid #000;
   border-radius: 1em;
-    background-image: url("../images/jump.jpg");
+    background-image: url("../images/cliff.jpg");
+    background-size: cover;
     
+    padding-top: 40%;
+    background-position: center center;
+  }
