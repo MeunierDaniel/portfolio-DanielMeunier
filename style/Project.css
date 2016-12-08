@@ -40,7 +40,9 @@ h1, h2, h3 {
   border-radius: 1em;
     background-image: url("../images/cliff.jpg");
     background-size: cover;
-    
+
+
     padding-top: 40%;
+
     background-position: center center;
   }
