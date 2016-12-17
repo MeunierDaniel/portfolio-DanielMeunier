@@ -6,13 +6,15 @@
 
 /* Do not change this style */
 .rectangle {
-  font-family: "Helvetica";
+  font-family: "Times New Roman";
   font-size: 1em;
   background-color: white;
   border: solid 1px black;
   height: 300px;
   width: 800px;
   margin: 0 auto;
+  color: #eee;
+  line-height: .7;
 }
 
 div p {
